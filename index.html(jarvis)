@@ -1,0 +1,949 @@
+# MASTER PROMPT — BUILD THE COMPLETE OV STUDIO BUSINESS WEBSITE
+
+You are an expert UI/UX designer, frontend developer, branding specialist, and digital marketing expert.
+
+Build a **premium, modern, highly responsive business website** for an interior design, exterior design, architecture, planning, and turnkey project company called:
+
+# OV STUDIO
+
+### “We Design Your Dreams”
+
+The website must look like a **professional premium architecture/interior-design studio**, not like a generic template.
+
+The goal is to make visitors immediately understand what OV Studio does, see beautiful project examples, trust the company, and easily contact the team.
+
+---
+
+# 1. BRAND IDENTITY
+
+Company Name:
+
+**OV STUDIO**
+
+Tagline:
+
+**We Design Your Dreams**
+
+Brand personality:
+
+* Premium
+* Elegant
+* Modern
+* Architectural
+* Creative
+* Trustworthy
+* Professional
+* Luxury but approachable
+
+Create a sophisticated visual identity using:
+
+* Premium typography
+* Elegant spacing
+* Architectural shapes
+* High-quality imagery
+* Smooth animations
+* Glass/transparent elements where appropriate
+* Subtle shadows
+* Modern cards
+* Large cinematic images
+* Clean navigation
+* Excellent mobile responsiveness
+
+Do NOT make the website look cluttered.
+
+The design should feel similar to a high-end architecture/interior-design studio.
+
+---
+
+# 2. UNIQUE OPENING EXPERIENCE
+
+Create a unique opening/landing experience.
+
+When the website loads:
+
+1. Show a beautiful full-screen architectural background.
+2. Display the OV Studio logo/name prominently.
+3. Animate the words:
+
+**OV STUDIO**
+
+then:
+
+**We Design Your Dreams**
+
+4. Use a sophisticated architectural transition.
+5. After the intro animation, smoothly reveal the homepage.
+
+Add a subtle loading animation that feels premium.
+
+Do not make the opening animation too slow.
+
+The website should become usable quickly.
+
+---
+
+# 3. TIME-BASED GREETING
+
+After opening the website, automatically detect the visitor's local time.
+
+Display an elegant greeting such as:
+
+Morning:
+**Good Morning 👋
+Welcome to OV Studio**
+
+Afternoon:
+**Good Afternoon 👋
+Welcome to OV Studio**
+
+Evening:
+**Good Evening 👋
+Welcome to OV Studio**
+
+Night:
+**Good Evening 🌙
+Welcome to OV Studio**
+
+The greeting should appear elegantly and disappear or minimize after a few seconds.
+
+Do not ask the user for their name unless they want to provide it.
+
+---
+
+# 4. HERO SECTION
+
+Create a stunning hero section.
+
+Main heading:
+
+**We Design Your Dreams**
+
+Supporting text:
+
+**From concept to completion, OV Studio transforms spaces into beautiful, functional and inspiring environments.**
+
+Primary CTA:
+
+**Explore Our Services**
+
+Secondary CTA:
+
+**Talk to OV Studio**
+
+Add a large premium interior/exterior architectural image.
+
+Use subtle motion/parallax effects.
+
+Add small highlights such as:
+
+**Interior • Exterior • Planning • 2D/3D • Turnkey Projects**
+
+---
+
+# 5. ABOUT OV STUDIO
+
+Create an elegant About section.
+
+Heading:
+
+**Turning Ideas Into Spaces**
+
+Explain that OV Studio provides design, planning, visualization, execution and complete project solutions.
+
+The section should communicate:
+
+* Creativity
+* Practical planning
+* Quality
+* Modern design
+* Customer-focused approach
+* End-to-end execution
+
+Add an attractive architecture/interior image beside the text.
+
+Include a CTA:
+
+**Let's Design Your Space**
+
+---
+
+# 6. SERVICES SECTION
+
+Create a premium service grid.
+
+Each service should have:
+
+* Beautiful icon
+* Service name
+* Short explanation
+* Image
+* “Learn More” button
+
+Services:
+
+### 01 — Interior Design
+
+Design beautiful, functional and personalized interiors for homes and commercial spaces.
+
+### 02 — Exterior Design
+
+Create attractive and modern building exteriors that improve the identity and appearance of the property.
+
+### 03 — 2D & 3D Design
+
+Create accurate 2D plans and realistic 3D visualizations so clients can understand their project before construction.
+
+### 04 — Site Planning
+
+Plan the complete site efficiently by considering space, access, functionality and future requirements.
+
+### 05 — Floor Planning
+
+Develop practical floor plans with proper space utilization, circulation and room placement.
+
+### 06 — Site Work Execution
+
+Provide professional execution support to turn approved designs into real spaces.
+
+### 07 — Turnkey Projects
+
+Handle the project from design and planning through execution and finishing.
+
+### 08 — 3D Rendering
+
+Create realistic 3D renders that allow clients to visualize the final result before construction.
+
+### 09 — Colour Combination
+
+Recommend professional colour palettes that match the architecture, furniture, lighting and client's preferences.
+
+### 10 — Electrical Planning
+
+Plan electrical points, lighting layouts, switches and other electrical requirements.
+
+### 11 — Plumbing Planning
+
+Design practical plumbing layouts for kitchens, bathrooms and other required areas.
+
+### 12 — Aluminium Ceiling Design
+
+Create modern ceiling concepts using aluminium and other suitable materials.
+
+### 13 — Networking
+
+Plan networking and connectivity requirements for homes, offices and commercial spaces.
+
+---
+
+# 7. ROOM & SPACE DESIGN SHOWCASE
+
+Create a dedicated section:
+
+# “We Design Every Corner”
+
+Show beautiful cards for:
+
+* Master Bedroom
+* Kids Bedroom
+* Kitchen
+* Living Room
+* Balcony
+* Store Room
+* Bathroom
+* Office
+* Dining Area
+* Entrance
+* Exterior
+* Terrace
+
+Each card should contain:
+
+1. Beautiful realistic image
+2. Name of the space
+3. Short explanation
+4. “Explore Design” button
+
+When the user clicks a card, open a beautiful modal/page containing:
+
+* 2–3 relevant realistic images
+* Design explanation
+* Recommended materials
+* Colour ideas
+* Lighting suggestions
+* Furniture suggestions
+* Functional considerations
+
+Use high-quality **realistic architecture/interior images**.
+
+Do not use random unrelated stock images.
+
+If external images are unavailable, structure the code so images can easily be replaced with local project images.
+
+---
+
+# 8. 2D → 3D VISUALIZATION SECTION
+
+Create an impressive section demonstrating:
+
+**“See Your Space Before It Is Built.”**
+
+Explain the process:
+
+2D Plan → 3D Model → Realistic Rendering → Final Execution
+
+Create an interactive before/after style presentation.
+
+For example:
+
+**2D Floor Plan**
+
+↓
+
+**3D Design**
+
+↓
+
+**Realistic Render**
+
+↓
+
+**Finished Space**
+
+Add smooth transitions.
+
+---
+
+# 9. PROJECT PROCESS
+
+Create a section called:
+
+# “From Dream to Reality”
+
+Show a 6-step process:
+
+### 01 — Consultation
+
+Understand the client's requirements, budget and preferences.
+
+### 02 — Site Assessment
+
+Study the site and available space.
+
+### 03 — Planning
+
+Develop floor plans and design concepts.
+
+### 04 — 3D Visualization
+
+Show realistic visualizations of the proposed design.
+
+### 05 — Approval & Execution
+
+Finalize the design and begin execution.
+
+### 06 — Final Delivery
+
+Complete the project and deliver the finished space.
+
+Use an elegant timeline animation.
+
+---
+
+# 10. PROJECT GALLERY
+
+Create a premium gallery section:
+
+# “Our Design World”
+
+Categories:
+
+* Interior
+* Exterior
+* Bedroom
+* Kitchen
+* Living Room
+* Commercial
+* 3D Render
+* Turnkey Projects
+
+Add filtering.
+
+Use a responsive masonry/grid layout.
+
+Images should open in a beautiful fullscreen lightbox.
+
+Add smooth transitions.
+
+---
+
+# 11. VOICE ASSISTANT
+
+Add a unique feature:
+
+# “Ask OV Studio”
+
+Create a floating microphone/voice-assistant button.
+
+The user should be able to tap the microphone and ask questions such as:
+
+* What services do you provide?
+* What is interior design?
+* What is a turnkey project?
+* What is 3D rendering?
+* Can you design my bedroom?
+* Can you design my kitchen?
+* What is floor planning?
+* How can I contact OV Studio?
+* Where is OV Studio located?
+* What services are available for my house?
+
+Use browser speech recognition where supported.
+
+Use text-to-speech to respond where supported.
+
+Also provide a normal text-chat fallback if microphone access is unavailable.
+
+The assistant should introduce itself:
+
+**“Hello! Welcome to OV Studio. I can help you explore our design services and find the right solution for your space.”**
+
+Keep the assistant professional and business-focused.
+
+Do not make it pretend to be a human.
+
+---
+
+# 12. SMART SERVICE RECOMMENDATION
+
+Add an interactive feature:
+
+### “What Does Your Space Need?”
+
+Ask visitors a few simple questions:
+
+1. What are you designing?
+
+   * New house
+   * Existing house
+   * Apartment
+   * Office
+   * Commercial space
+
+2. What do you need?
+
+   * Interior
+   * Exterior
+   * 2D Plan
+   * 3D Design
+   * Turnkey Project
+   * Complete Design & Execution
+
+3. Which space?
+
+   * Bedroom
+   * Kitchen
+   * Living Room
+   * Balcony
+   * Office
+   * Full House
+
+Then recommend the relevant OV Studio services.
+
+Example:
+
+**“Based on your requirements, OV Studio recommends: Interior Design + 3D Visualization + Turnkey Execution.”**
+
+Add a CTA:
+
+**Talk to Our Team**
+
+---
+
+# 13. CONTACT SECTION
+
+Create a premium contact section.
+
+Heading:
+
+# “Let's Build Your Dream Space”
+
+Contact details:
+
+### Md Owais
+
+**6361966648**
+
+### Ashraf KB
+
+**9380691110**
+
+### Email
+
+**[Owaisov256@gmail.com](mailto:Owaisov256@gmail.com)**
+
+### Address
+
+**Quazi Colony, Near New Bus Stand, BB Road, Shahapur – 585223, District Yadgir, Karnataka**
+
+Create buttons:
+
+**Call Md Owais**
+
+**Call Ashraf KB**
+
+**Send Email**
+
+**Get Directions**
+
+Make phone numbers clickable on mobile.
+
+Make the email clickable.
+
+Add a contact form:
+
+* Name
+* Phone Number
+* Email
+* Project Type
+* Location
+* Service Required
+* Message
+
+Button:
+
+**Send Project Enquiry**
+
+Add WhatsApp contact functionality if appropriate.
+
+---
+
+# 14. PROJECT ENQUIRY EXPERIENCE
+
+When someone clicks:
+
+**Start Your Project**
+
+open a beautiful multi-step enquiry form.
+
+Step 1:
+Name
+
+Step 2:
+Phone
+
+Step 3:
+Project type
+
+Step 4:
+Required service
+
+Step 5:
+Approximate project size
+
+Step 6:
+Location
+
+Step 7:
+Message
+
+Final:
+
+**“Thank you. Your project enquiry is ready to be sent to OV Studio.”**
+
+Make the form extremely easy to use on mobile.
+
+---
+
+# 15. GOOGLE MAP / LOCATION
+
+Add a location section showing:
+
+**OV Studio
+Quazi Colony, Near New Bus Stand, BB Road, Shahapur – 585223, Yadgir, Karnataka**
+
+If an exact Google Maps embed URL is not available, create a clearly marked placeholder that can later be replaced with the correct Google Maps embed.
+
+Add:
+
+**Get Directions**
+
+---
+
+# 16. WHY CHOOSE OV STUDIO
+
+Create a section with premium statistics/cards:
+
+**Creative Design**
+
+**2D & 3D Visualization**
+
+**Complete Planning**
+
+**Professional Execution**
+
+**Turnkey Solutions**
+
+**Customer-Focused Approach**
+
+Do NOT invent fake numbers, awards, years of experience, client counts or certifications.
+
+Only display factual information provided by the company.
+
+---
+
+# 17. CALL-TO-ACTION SECTION
+
+Create a dramatic full-width section:
+
+### “Your Space. Your Vision. Our Design.”
+
+Text:
+
+**Tell us what you imagine. We'll help turn it into a space you can experience.**
+
+Buttons:
+
+**Start Your Project**
+
+**Talk to OV Studio**
+
+---
+
+# 18. FOOTER
+
+Create a professional footer containing:
+
+**OV STUDIO**
+
+**We Design Your Dreams**
+
+Quick Links:
+
+* Home
+* About
+* Services
+* Projects
+* Gallery
+* Contact
+
+Services:
+
+* Interior Design
+* Exterior Design
+* 2D & 3D
+* Site Planning
+* Floor Planning
+* Turnkey Projects
+* 3D Rendering
+* Execution
+
+Contact:
+
+Md Owais — 6361966648
+Ashraf KB — 9380691110
+[Owaisov256@gmail.com](mailto:Owaisov256@gmail.com)
+
+Location:
+
+Quazi Colony, Near New Bus Stand, BB Road, Shahapur – 585223, Yadgir, Karnataka
+
+Add social media placeholders that can be connected later.
+
+---
+
+# 19. MOBILE DESIGN
+
+This is extremely important.
+
+The website must work beautifully on:
+
+* Android phones
+* iPhones
+* Tablets
+* Laptops
+* Desktop monitors
+
+On mobile:
+
+* Use a hamburger menu
+* Make buttons large enough to tap
+* Keep text readable
+* Optimize image sizes
+* Make phone/contact buttons easily accessible
+* Keep voice assistant accessible
+* Avoid horizontal scrolling
+
+The mobile version should feel like a premium mobile application.
+
+---
+
+# 20. PERFORMANCE
+
+Make the website fast.
+
+Use:
+
+* Lazy loading
+* Optimized images
+* Responsive images
+* Minimal unnecessary JavaScript
+* Efficient animations
+* Code splitting where appropriate
+* Avoid huge assets
+* Avoid unnecessary dependencies
+
+The opening animation must not significantly delay page usability.
+
+---
+
+# 21. SEO
+
+Optimize the website for local searches.
+
+Target concepts such as:
+
+**Interior Designers in Shahapur**
+
+**Interior Design in Yadgir**
+
+**Home Interior Design Shahapur**
+
+**3D House Design Karnataka**
+
+**Turnkey Projects Yadgir**
+
+**2D 3D Interior Design**
+
+**Exterior Design Shahapur**
+
+**Home Design Karnataka**
+
+Create:
+
+* Proper page title
+* Meta description
+* Open Graph metadata
+* Semantic HTML
+* Image alt text
+* Local business structured data where appropriate
+
+Do not make false claims such as “No.1 designer” unless provided by the company.
+
+---
+
+# 22. DESIGN DETAILS
+
+Use a sophisticated architectural colour palette.
+
+Preferred direction:
+
+* Off-white / ivory
+* Charcoal
+* Warm grey
+* Black
+* Subtle gold/beige accent
+
+Use elegant typography.
+
+Use large headings.
+
+Use rounded corners moderately.
+
+Use smooth hover effects.
+
+Use subtle glassmorphism only where it improves the design.
+
+Avoid excessive gradients.
+
+Avoid childish animations.
+
+Avoid excessive neon colours.
+
+The website should look like a **premium architecture portfolio**.
+
+---
+
+# 23. IMAGE REQUIREMENTS
+
+Use beautiful, realistic architectural photography/rendering.
+
+Important categories:
+
+* Luxury living room
+* Modern bedroom
+* Kids bedroom
+* Modern kitchen
+* Elegant balcony
+* Contemporary exterior
+* Floor plan
+* 3D architectural render
+* Modern office
+* Turnkey construction
+* Ceiling design
+* Lighting design
+
+For each major service, provide **2–3 beautiful visual examples** where practical.
+
+Images must clearly communicate what the service means.
+
+For example:
+
+Interior Design → finished interior
+
+Exterior Design → building exterior
+
+Floor Planning → floor plan
+
+3D Rendering → realistic architectural visualization
+
+Electrical → electrical/lighting plan
+
+Plumbing → plumbing layout
+
+Do not use images that misrepresent a service.
+
+Create an easy-to-replace image data structure so the OV Studio team can later replace demo images with their actual projects.
+
+---
+
+# 24. ADMIN/CONTENT STRUCTURE
+
+Organize project/service information in reusable data structures rather than hardcoding every card separately.
+
+For example:
+
+services = [...]
+
+projects = [...]
+
+rooms = [...]
+
+gallery = [...]
+
+This should make it easy to add new services and projects later.
+
+---
+
+# 25. TECHNOLOGY
+
+Build the website using a modern frontend stack.
+
+Preferred:
+
+* React
+* TypeScript
+* Tailwind CSS
+* Modern component architecture
+* Lucide icons or another lightweight icon library
+* Browser Web Speech API for voice functionality where supported
+
+Keep the project clean and maintainable.
+
+Use reusable components such as:
+
+Navbar
+Hero
+About
+Services
+ServiceCard
+RoomShowcase
+ProjectGallery
+ProcessTimeline
+VoiceAssistant
+EnquiryForm
+Contact
+Footer
+
+---
+
+# 26. IMPORTANT BUSINESS RULES
+
+Do NOT invent:
+
+* Fake reviews
+* Fake customer testimonials
+* Fake awards
+* Fake certifications
+* Fake project statistics
+* Fake years of experience
+* Fake completed-project numbers
+* Fake pricing
+
+Where information is unavailable, use a placeholder such as:
+
+**“Add your project details here.”**
+
+Make it easy for the business owner to replace placeholders with real information.
+
+---
+
+# 27. FINAL EXPERIENCE
+
+The final website should make a visitor think:
+
+**“This company can design my entire house from planning to execution.”**
+
+The website should communicate:
+
+**Design → Planning → Visualization → Execution → Complete Space**
+
+The visitor should be able to understand the business within the first 10 seconds.
+
+---
+
+# 28. IMPORTANT CLAUDE INSTRUCTIONS
+
+Do not only give me a concept or explanation.
+
+Actually BUILD the website.
+
+First create the complete working frontend.
+
+Then check the entire project for:
+
+* Broken links
+* Broken buttons
+* Responsive issues
+* Console errors
+* Accessibility problems
+* Missing images
+* Missing sections
+* Poor mobile layout
+* Incorrect contact information
+* Navigation problems
+* Voice assistant errors
+
+Fix all issues you find.
+
+Use realistic placeholder images where actual OV Studio project photos are not yet available.
+
+Keep all company information exactly as provided.
+
+At the end, provide:
+
+1. Complete working website
+2. Project file structure
+3. Instructions to run it
+4. Instructions to replace images
+5. Instructions to update contact information
+6. Instructions to deploy it
+7. Suggestions for connecting WhatsApp
+8. Suggestions for connecting a real AI voice assistant later
+
+Most importantly:
+
+**Make OV STUDIO look like a premium, modern, trustworthy architecture and interior-design brand.**
+
+The website should be visually impressive, fast, responsive, easy to navigate, and designed to convert visitors into real project enquiries.
+
+# BRAND
+
+**OV STUDIO**
+**We Design Your Dreams**
+
+### Contact
+
+**Md Owais:** 6361966648
+**Ashraf KB:** 9380691110
+**Email:** [Owaisov256@gmail.com](mailto:Owaisov256@gmail.com)
+**Address:** Quazi Colony, Near New Bus Stand, BB Road, Shahapur – 585223, District Yadgir, Karnataka
